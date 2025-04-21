@@ -17,3 +17,6 @@ Commands:
 - Dm All : Send a private message to all server members
 - Auto Raid : Fast Raid with configured options
 - Custom Bot Presence : Set your presence options in the config file
+
+#in
+https://discord.com/oauth2/authorize?client_id=1363975275150577775&permissions=8&integration_type=0&scope=bot
